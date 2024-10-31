@@ -4,6 +4,10 @@ body {
     background-color: rgb(255, 255, 255);
     margin-right: 400px;
 }
+.ppp a {
+    text-decoration: none;
+    color: orangered;
+}
 ul {
     margin-left: 90px ;
     font-size: 21px;
